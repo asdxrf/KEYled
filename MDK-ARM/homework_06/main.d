@@ -42,4 +42,6 @@ homework_06\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrapp
 homework_06\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
 homework_06\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
 homework_06\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h
+homework_06\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
 homework_06\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+homework_06\main.o: ..\BSP\key\inc\bsp_key.h
